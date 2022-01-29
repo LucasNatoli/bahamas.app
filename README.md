@@ -1,2 +1,5 @@
-# bahamas.app
-Aplicacion de Club Bahamas
+# Club Bahamas app
+
+Aplicación cliente de bahamas.services.
+
+Recién iniciando.
